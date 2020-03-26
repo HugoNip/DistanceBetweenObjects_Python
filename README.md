@@ -1,8 +1,12 @@
 ## Measuring distance between objects
+
+![distance_between_objects_result_01.gif](https://github.com/HugoNip/DistanceBetweenObjects_Python/blob/master/images/distance_between_objects_result_01.gif)
+
 [Source](https://www.pyimagesearch.com/2016/04/04/measuring-distance-between-objects-in-an-image-with-opencv/)  
+
 Our goal in this image is to 
-(1) find the quarter and then 
-(2) use the dimensions of the quarter to measure the distance between the quarter and all other objects.
+1. find the quarter
+2. use the dimensions of the quarter to measure the distance between the quarter and all other objects.
 
 ## Algorithm
 1. Confirm the reference object and its deminsions.  
